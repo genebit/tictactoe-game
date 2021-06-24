@@ -1,0 +1,11 @@
+{
+  "name": "p5js-tictactoe",
+  "version": "1.0.0",
+  "description": "A tic tac toe game built in js and p5js",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "genebit <genebitara@gmail.com>",
+  "license": "MIT"
+}
